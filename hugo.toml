@@ -1,0 +1,27 @@
+baseURL = "https://lemoes.com/"
+title = "柠萌科技"
+theme = "hello-friend-ng"
+languageCode = "en"
+
+[params]
+  homeSubtitle = "Lemoe Technology"
+  description = "柠萌科技 Lemoe Technology"
+
+[params.logo]
+  logoText = "柠萌科技 Lemoe Technology"
+  LogoHomeLink = "/"
+
+[params.portrait]
+  path = "images/logo.png"
+  alt = "柠萌科技 Lemoe Technology"
+
+[params.footer]
+  bottomText = ["© 2024 柠萌科技", '<a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2021001266号</a>']
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/lemoe-technology"
+
+[[params.social]]
+  name = "email"
+  url = "mailto:lemoe2021@gmail.com"
