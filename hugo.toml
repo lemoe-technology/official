@@ -16,7 +16,7 @@ languageCode = "en"
   alt = "柠萌科技 Lemoe Technology"
 
 [params.footer]
-  bottomText = ["© 2024 柠萌科技", '<a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2021001266号</a>']
+  bottomText = ["© 2025 柠萌科技", '<a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2021001266号</a>']
 
 [[params.social]]
   name = "github"
